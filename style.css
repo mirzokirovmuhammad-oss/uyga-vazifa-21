@@ -1,0 +1,218 @@
+nav {
+    text-align: center;
+    margin: auto;
+    display: flex;
+    gap: 200px;
+    width: 900px;
+    text-shadow: -5px 5px 5px white;
+    color: white;
+
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    height: 100px;
+}
+
+.bir {
+    width: 60;
+    height: 50px;
+}
+
+.ikki {
+    text-align: center;
+    border: 2px solid black;
+    width: 602px;
+    height: 75px;
+    background-color: white;
+    margin-left: 480px;
+    box-shadow: -5px 5px 5px #FFFFFF40;
+    padding-top: 15px;
+    border-radius: 50px;
+}
+
+main {
+    height: 594px;
+    background-image: url(./Rectangle\ 2\ \(1\).svg);
+    /* position: relative; */
+}
+
+.posisition {
+    padding-top: 50px;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: #32FB00;
+    margin-top: 150px;
+    color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-shadow: -5px 5px 5px white;
+    box-shadow: -5px 5px 5px white;
+
+}
+
+.box1 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: absolute;
+    left: 50px;
+    top: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-shadow: -5px 5px 5px #FFFFFF;
+}
+
+
+.box2 {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    top: 300px;
+    left: 550px;
+    border-radius: 100px;
+    color: white;
+    padding-left: 160px;
+    padding-top: 80px;
+    text-shadow: -5px 5px 5px white;
+
+}
+
+.box3 {
+    width: 200px;
+    height: 100px;
+    background-color: #32FB00;
+    margin-left: 640px;
+    position: absolute;
+    bottom: 10px;
+    color: white;
+    top: 450px;
+    padding-top: 90px;
+    text-align: center;
+    color: red;
+    box-shadow: -5px 5px 5px white;
+    text-shadow: -5px 5px 5px white;
+}
+
+.box4 {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    margin-left: 1300px;
+    position: absolute;
+    bottom: 10px;
+    color: white;
+    top: 350px;
+    padding-top: 90px;
+    text-shadow: -5px 5px 5px white;
+    text-align: center;
+}
+
+.box5 {
+    width: 200px;
+    height: 100px;
+    background-color: #32FB00;
+    margin-left: 1400px;
+    bottom: 10px;
+    color: red;
+    top: 480px;
+    padding-top: 90px;
+    text-shadow: -5px 5px 5px white;
+    box-shadow: -5px 5px 5px white;
+    position: absolute;
+    text-align: center;
+}
+
+.otaa {
+    background-color: black;
+
+}
+
+.ikki {
+    color: black;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.box6 {
+    width: 350px;
+    height: 300px;
+    background-color: #7B2525;
+    margin-left: 100px;
+    top: 200px;
+}
+
+.uch {
+    text-align: center;
+    text-shadow: -5px 5px 5px white;
+    color: white;
+    padding-top: 50px;
+}
+
+.tor {
+    text-align: center;
+    color: white;
+}
+
+.box7 {
+    width: 350px;
+    height: 290px;
+    background-color: #7B2525;
+    margin-left: 600px;
+    position: absolute;
+    top: 850px;
+}
+
+.besh {
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    text-shadow: -5px 5px 5px white;
+}
+
+.sakkiz {
+    margin-left: 10px;
+    margin-top: 30px;
+}
+
+.box8 {
+    width: 350px;
+    height: 290px;
+    background-color: #7B2525;
+    margin-left: 1100px;
+    position: absolute;
+    top: 850px;
+
+}
+
+.yetti {
+    text-align: center;
+    color: white;
+    text-shadow: -5px 5px 5px white;
+
+}
+
+.olti {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.yuz {
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    height: 600px;
+    color: white;
+    text-shadow: -5px 5px 5px white;
+    height: 100px;
+    padding-top: 100px;
+}
